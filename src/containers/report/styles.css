@@ -1,0 +1,15 @@
+.token-detail {
+  word-break: break-all;
+}
+
+.ui.icon.input .DayPickerInput {
+  z-index: 999;
+}
+
+.ui.icon.input input{
+  padding-left: 35px;
+}
+
+.ui.icon.input .icon {
+  z-index: 1000;
+}

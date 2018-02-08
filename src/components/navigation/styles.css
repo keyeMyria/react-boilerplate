@@ -1,0 +1,7 @@
+.navbar {
+  border-radius: 0 !important;
+}
+
+.page-name {
+  text-transform:capitalize;
+}

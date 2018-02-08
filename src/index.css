@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.main-wrapper {
+  margin-left: 250px;
+}
+
+.ui.icon.input .DayPickerInput {
+  z-index: 999;
+}
+
+.ui.icon.input input{
+  padding-left: 35px;
+}
+
+.ui.icon.input .icon {
+  z-index: 1000;
+}
